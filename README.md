@@ -1,3 +1,3 @@
 # TEPA
 ### Transferable Environment Poisoning: Training-time Attack on Reinforcement Learning
-### 2021, AAMAS
+https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1398.pdf
